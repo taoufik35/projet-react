@@ -1,18 +1,16 @@
 import './App.css';
 import Header from './component/layout/header/Header';
+import Footer from './component/layout/footer/Footer';
 
 
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-} from "react-router-dom";
+
 
 function App() {
   return (
     <div>
       <Header />
+      <Footer />
     </div>
   );
 }
