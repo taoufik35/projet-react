@@ -37,7 +37,13 @@
   }
 }
 
+
 .image{
   text-align: center;
-  background-color: black;
+  background-image: url("C:\Users\vouti\Desktop\site\lab\projet-react\src\component\layout\footer\background-footer.jpg");
+}
+
+.himage{
+  height: 70vh;
+  width: 100%;
 }
