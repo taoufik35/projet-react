@@ -8,7 +8,7 @@ function Nav(){
                     <Link className="nav-link text-white " aria-current="page" to="/">Home</Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link text-white" aria-current="page" to="/search">search</Link>
+                    <Link className="nav-link text-white" aria-current="page" to="/search">Search</Link>
                 </li>
             </ul>
        </nav>
