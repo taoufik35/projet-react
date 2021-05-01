@@ -21,7 +21,7 @@ function App() {
       <Header />
       <Router>
         <Nav />
-        <main className= "container my-5 ">
+        <main className= "container-fluid my-5 containe ">
           <Switch>
             <Route path="/">
               <News />

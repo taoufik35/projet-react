@@ -47,3 +47,7 @@
   height: 70vh;
   width: 100%;
 }
+
+.containe{
+  background-image: url("C:\Users\vouti\Desktop\site\lab\projet-react\src\component\news\main-back.png");
+}

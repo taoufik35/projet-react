@@ -25,7 +25,7 @@ class News extends React.Component{
         Axios.get("https://swapi.dev/api/")
         .then((response) =>{
             let articles = Object.keys( response.data).map((index) => {
-                return <Article Article={index}/>
+                return <Article index={index}/>
         });
 
         this.setState({
